@@ -1,0 +1,3 @@
+﻿src/components/Sidebar.tsx(46,56): error TS17001: JSX elements cannot have multiple attributes with the same name.
+src/components/Sidebar.tsx(48,56): error TS17001: JSX elements cannot have multiple attributes with the same name.
+src/pages/Signup.tsx(1,27): error TS6133: 'useEffect' is declared but its value is never read.

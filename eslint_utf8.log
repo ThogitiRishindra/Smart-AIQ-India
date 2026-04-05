@@ -1,0 +1,16 @@
+﻿
+> smart-aqi-india@0.0.0 lint
+> eslint .
+
+
+C:\Users\user\OneDrive\Desktop\AQI\src\pages\Signup.tsx
+  1:27  error  'useEffect' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\user\OneDrive\Desktop\AQI\src\services\auth.ts
+  12:15  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\user\OneDrive\Desktop\AQI\src\services\db.ts
+  24:28  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+Γ£û 3 problems (3 errors, 0 warnings)
+
